@@ -5,6 +5,7 @@
 # 個人參與研究成果如下，![PDF下載](https://github.com/YowChinHuang/Research-of-Electronic-Payment-Systems-and-Universal-Traffic-Cards-Promotion-PhaseIV/raw/master/99-MDB005.pdf):
 <br />
 <br />
+<img src="https://github.com/YowChinHuang/Research-of-Electronic-Payment-Systems-and-Universal-Traffic-Cards-Promotion-PhaseIV/raw/master/1.jpg">
 ![image](https://github.com/YowChinHuang/Research-of-Electronic-Payment-Systems-and-Universal-Traffic-Cards-Promotion-PhaseIV/raw/master/1.jpg)
 <br />
 ![image](https://github.com/YowChinHuang/Research-of-Electronic-Payment-Systems-and-Universal-Traffic-Cards-Promotion-PhaseIV/raw/master/2.jpg)
