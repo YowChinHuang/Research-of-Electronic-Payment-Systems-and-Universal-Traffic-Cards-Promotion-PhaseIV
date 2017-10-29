@@ -6,13 +6,9 @@
 <br />
 <br />
 <img src="https://github.com/YowChinHuang/Research-of-Electronic-Payment-Systems-and-Universal-Traffic-Cards-Promotion-PhaseIV/raw/master/1.jpg">
-<br />
 <img src="https://github.com/YowChinHuang/Research-of-Electronic-Payment-Systems-and-Universal-Traffic-Cards-Promotion-PhaseIV/raw/master/2.jpg">
-<br />
 <img src="https://github.com/YowChinHuang/Research-of-Electronic-Payment-Systems-and-Universal-Traffic-Cards-Promotion-PhaseIV/raw/master/3.jpg">
-<br />
 <img src="https://github.com/YowChinHuang/Research-of-Electronic-Payment-Systems-and-Universal-Traffic-Cards-Promotion-PhaseIV/raw/master/4.jpg">
-<br />
 <img src="https://github.com/YowChinHuang/Research-of-Electronic-Payment-Systems-and-Universal-Traffic-Cards-Promotion-PhaseIV/raw/master/5.jpg">
 <br />
 <br />
